@@ -1,0 +1,3 @@
+[submodule "stock-trading-bot"]
+	path = stock-trading-bot
+	url = https://github.com/aoberai/stock-trading-bot.git
